@@ -1,0 +1,14 @@
+<!--pages/posts/post.wxml-->
+<view>
+ <swiper indicator-dots='true' autoplay='true' interval='3000' indicator-color='rgba(0,0,0,0.2)' indicator-active-color='#fff'>
+   <swiper-item>
+     <image src='/images/banner/iqiyi.png'></image>
+   </swiper-item>
+   <swiper-item>
+     <image src='/images/banner/vr.png'></image>
+   </swiper-item>
+   <swiper-item>
+     <image src='/images/banner/wx.png'></image>
+   </swiper-item>
+ </swiper>
+</view>
